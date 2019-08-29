@@ -1,0 +1,3 @@
+Discuss inverse link functions and noise distributions for GLM applications
+
+Page 436-445 in Kruschke text
